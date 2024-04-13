@@ -1,4 +1,4 @@
-# 🎭 [HideMyPlaywright](https://github.com/Nayuta-Team/HideMyPlaywright) for Python
+# 🎭 [HideMyPlaywright](https://github.com/Nayuta-Team/HideMyPlaywright)
 
 [中文简体](./README.zh.md) English
 
